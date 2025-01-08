@@ -162,7 +162,7 @@
     <!-- End Videos -->
 
     <!-- Start Information -->
-    <section class="information" id="information">
+    <section class="information bg-secondary" id="information">
         <div class="container">
             <div class="row">
                 <div class="col-12">
